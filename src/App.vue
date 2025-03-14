@@ -24,7 +24,6 @@ export default {
 
 <style>
 /* Ensure the app container fills the entire viewport */
-
 #app {
   position: fixed;
   top: 0;
